@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://soflo-wheelielife.github.io/sitemap.xml
